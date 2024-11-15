@@ -84,6 +84,6 @@ GitHub : github.com/MachinGunKali
 
 N'hésitez pas à me contacter pour toute question ou suggestion !
 
-Esperons que je sois prit cette fois-ci !!! ;)
+Espérons que je sois pris cette fois-ci !!! ;)
 
 
