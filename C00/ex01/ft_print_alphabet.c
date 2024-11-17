@@ -4,7 +4,7 @@
 void ft_print_alphabet(void)
 {
   char c;
-  c = 'a';
+  c = 'a' - 1;
 
   while(c != 'z')
   {
